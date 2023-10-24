@@ -5,7 +5,7 @@
 My name is Kiril aka devilandcode and I'm backEnd developer
 
 - 🛠 I’m currently performing freelance orders for website development and telegram bots
-- 🔭 I’m using PHP+Laravel,html,css,js
+- 🔭 I’m using PHP+Laravel, WordPress, HTML, CSS, JS
 - 📫 How to reach me: links to my account and email are in my profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
