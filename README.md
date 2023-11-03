@@ -10,4 +10,4 @@ My name is Kiril aka devilandcode and I'm backEnd developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilandcode&theme=solarized
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilandcode&theme=solarized)
