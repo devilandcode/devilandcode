@@ -9,3 +9,5 @@ My name is Kiril aka devilandcode and I'm backEnd developer
 - 📫 How to reach me: links to my account and email are in my profile
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilandcode&theme=solarized
