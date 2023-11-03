@@ -10,6 +10,7 @@ My name is Kiril aka devilandcode and I'm backEnd developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src=" https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/index.min.js "></script>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/php.svg" />
 
