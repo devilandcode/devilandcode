@@ -4,7 +4,7 @@
 
 My name is Kirill aka devilandcode and I'm backEnd developer
 
-- 🛠 I’m currently performing freelance orders for website development and telegram bots
+- 🛠 I don't freelance - I have a full-time job now.
 - 🔭 I’m using PHP+Laravel, Filament, Rabbitmq, Elasticsearch etc.
 - 📫 How to reach me: links to my account and email are in my profile
 
