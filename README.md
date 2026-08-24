@@ -4,8 +4,8 @@
 
 My name is Kirill aka devilandcode and I'm backEnd developer
 
-- 🛠 I don't freelance - I have a full-time job now.
-- 🔭 I use PHP+Laravel, Filament, Rabbitmq, Elasticsearch etc.
-- 📫 How to reach me: links to my account and email are in my profile
+- 🛠 I'm currently open to new opportunities, including freelance projects
+- 🔭 I use PHP, Laravel, Symfony, Filament, RabbitMQ, Elasticsearch, etc.
+- 📫 How to reach me: links to my social accounts and email are in my profile.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)
