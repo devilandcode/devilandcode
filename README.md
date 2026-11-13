@@ -2,10 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF721&background=000000E9&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+devilandcode" alt="Typing SVG" /></a>
 
-My name is Kirill aka devilandcode and I'm backEnd developer
+My name is **Kirill Makovski** (aka `devilandcode`), a Senior Backend Developer specializing in robust architecture, high-load e-commerce platforms, and fintech solutions.
 
-- 🛠 I'm currently open to new opportunities, including freelance projects
-- 🔭 I use PHP, Laravel, Symfony, Filament, RabbitMQ, Elasticsearch, etc.
-- 📫 How to reach me: links to my social accounts and email are in my profile.
+* 🔭 **Currently focused on:** Building high-performance backend systems, mastering the Symfony ecosystem, and completing my Master's thesis on AI & Deep Learning for medical image analysis.
+* 🛠 **Core Stack & Tools:** PHP 8+, Symfony, Laravel, Filament, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, and Elasticsearch.
+* 💼 **Open to:** Senior backend roles (remote/hybrid), selective freelance projects, and exciting engineering collaborations.
+* 📫 **How to reach me:** Drop me an email at `devilandcode@gmail.com` or reach out via Telegram [@phantomandcode](https://t.me/phantomandcode).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilandcode&layout=compact)
