@@ -5,7 +5,7 @@
 My name is **Kirill Makovski** (aka `devilandcode`), a Senior Backend Developer specializing in robust architecture, high-load e-commerce platforms, and fintech solutions.
 
 * 🔭 **Currently focused on:** Building high-performance backend systems, mastering the Symfony ecosystem, and completing my Master's thesis on AI & Deep Learning for medical image analysis.
-* 🛠 **Core Stack & Tools:** PHP 8+, Symfony, Laravel, Filament, PostgreSQL, MySQL, Redis, RabbitMQ, Docker, and Elasticsearch.
+* 🛠 **Core Stack & Tools:** PHP 8+, Symfony, Laravel, PostgreSQL, Mongo, Redis, RabbitMQ, Elasticsearch, Kubernetes, Crypto/Web3
 * 💼 **Open to:** Senior backend roles (remote/hybrid), selective freelance projects, and exciting engineering collaborations.
 * 📫 **How to reach me:** Drop me an email at `devilandcode@gmail.com` or reach out via Telegram [@phantomandcode](https://t.me/phantomandcode).
 
